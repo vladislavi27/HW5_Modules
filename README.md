@@ -1,4 +1,4 @@
-# IB_Bioinf_tools
+# Bioinf_fresher_tools
 ## Tools to work with nucleic acids, protein sequences, fastq reads.
 
 Every bioinfomatician at some point of his/her career deals with nucleic acid sequences, protein sequences. Nowadays it's also hard to imagine bioinformatics without New Generation Sequecning methods and data, that needs to be analyzed with bioinformatician hands. For those reasons as well as for practical experience and better theorethical understanding of bioinformatics I create this repo.
